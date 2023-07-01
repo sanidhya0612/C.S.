@@ -1,0 +1,45 @@
+body
+{
+    background-color: bisque;
+}
+
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+ }
+
+ hr {
+    border: 2px solid red;
+    width: 90%;
+  }
+
+#hun
+{
+    background-color: gray;
+}
+
+#h3{
+    color: red;
+}
+
+.test_image
+{
+    background-color: grey;
+    width: 97%;
+    margin-bottom: 20px;
+    color: white;
+}
+.hello
+{
+    border-radius: 20px;
+    background-color: white;
+    font-size: 20px;
+    color: black;
+}
+
