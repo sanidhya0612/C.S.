@@ -43,3 +43,14 @@ footer {
     color: black;
 }
 
+#haus
+{
+    font-weight: bold;
+    color: black;
+    background-color: lightcoral;
+    border-radius: 20px;
+    width: 80%;
+    margin-bottom: 70px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}
